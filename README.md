@@ -22,12 +22,12 @@
 
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junmo95&show_icons=true&theme=algolia)
-</a>
-<a>
+</div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junmo95)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
