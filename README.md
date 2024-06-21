@@ -22,7 +22,7 @@
 
 
 ---
-# 개발 내
+# 개발 내용
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2057%20mins-blue)
