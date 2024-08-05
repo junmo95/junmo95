@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=364765&height=300&section=header&text=Welcome&fontSize=90" />
 
+
+<h3>계발용 계정으로 자료 이전 중...</h3>
+<br/>
+https://github.com/jundev95
+<br/>
+
 ## Language
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
