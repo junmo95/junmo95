@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=364765&height=300&section=header&text=Welcome&fontSize=90" />
 
 
-<h3>계발용 계정으로 자료 이전 중...</h3>
+<h3>개발용 계정으로 자료 이전 중...</h3>
 <br/>
 https://github.com/jundev95
 <br/>
