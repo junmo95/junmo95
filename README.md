@@ -51,12 +51,12 @@
 ## 개발내용
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundev95" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmo95" alt="Top Langs">
   </a>
   &nbsp;&nbsp; 
   &nbsp;&nbsp; 
   &nbsp;&nbsp; 
   &nbsp;&nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api?username=jundev95&amp;theme=github_dark&amp;show_icons=true" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=junmo95&amp;theme=github_dark&amp;show_icons=true" alt="Anurag's GitHub stats">
 </div>
 
