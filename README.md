@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=364765&height=300&section=header&text=Welcome&fontSize=90" />
 
-
-<h3>개발용 계정으로 자료 이전 중...</h3>
-<br/>
-https://github.com/jundev95
-<br/>
-
 ## Language
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,62 +48,15 @@ https://github.com/jundev95
 
 <br>
 
-# 개발 내용
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%2012%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-936.6%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
-
-**🐱 저의 GitHub 정보에요.** 
-
-> 📦 GitHub의 123.7 kB만큼의 저장소를 사용하고 있어요. 
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 9개의 Public Repository를 만들었어요. 
- > 
-> 🔑 2개의 Private Repository를 만들었어요. 
- > 
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     517 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌆 낮　                     1419 commits        ███████████░░░░░░░░░░░░░░   42.63 % 
-🌃 저녁                     1075 commits        ████████░░░░░░░░░░░░░░░░░   32.29 % 
-🌙 밤　                     318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-JavaScript               21 hrs 5 mins       ███████████████████████░░   93.96 % 
-C#                       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Docker                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-ASP.NET                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-🔥 에디터들: 
-VS Code                  21 hrs 31 mins      ████████████████████████░   95.87 % 
-Jetbrainsrider           53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-
-🐱‍💻 프로젝트들: 
-JM-TotalHub-FE-React     14 hrs 56 mins      █████████████████░░░░░░░░   66.59 % 
-JM-TotalHub-BE-Signal    5 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-JM-TotalHub-BE-Express   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Practice02-DeliveryDriver50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-UntactMng                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-
-💻 운영 체제들: 
-Windows                  22 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/08/2024 18:41:38 UTC
-<!--END_SECTION:waka-->
+## 개발내용
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundev95" alt="Top Langs">
+  </a>
+  &nbsp;&nbsp; 
+  &nbsp;&nbsp; 
+  &nbsp;&nbsp; 
+  &nbsp;&nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api?username=jundev95&amp;theme=github_dark&amp;show_icons=true" alt="Anurag's GitHub stats">
+</div>
 
